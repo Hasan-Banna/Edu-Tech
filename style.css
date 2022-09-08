@@ -1,0 +1,10 @@
+.nav-item-space>ul>li{
+    margin-right: 25px;
+    padding-right: 25px;
+}
+.carousel-caption{
+    top: 30%;
+}
+.carousel-item>img{
+    filter: brightness(45%);
+}
