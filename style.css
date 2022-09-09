@@ -13,4 +13,10 @@
 section{
     margin-bottom: 130px;
 }
-
+ /* footer customize */
+ footer{
+    height: 472px;
+ }
+.fa-brands{
+    color: white;
+}
