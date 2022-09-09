@@ -10,7 +10,7 @@
 .carousel-item>img{
     filter: brightness(45%);
 }
-.container{
+section{
     margin-bottom: 130px;
 }
-/* disover area  */
+
